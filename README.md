@@ -10,6 +10,7 @@ Here are the links that i used a lot to see the description of Cue sheets :
 - https://www.gnu.org/software/ccd2cue/manual/html_node/CUE-sheet-format.html
 - https://web.archive.org/web/20070614044112/http://www.goldenhawk.com/download/cdrwin.pdf
 - https://wyday.com/cuesharp/specification.php
+- https://totalsonic.net/cuesheetsyntax.htm
 
 # Special thanks
 I used the code of [OCue](https://codeberg.org/EruEri/ocue) a lot, so a huge thanks to its contributors and condor who sent me this.
